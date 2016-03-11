@@ -21,7 +21,6 @@ Web前端开发工程师，主要职责是利用(X)HTML/CSS/JavaScript/Flash等�
 [27王瑶]( https://github.com/blacklike/blacklike.github.io/)
 [31徐道聪](https://github.com/xuxiaoshang/xuxiaoshang.github.io)
 [34姚文辉](https://github.com/ywh10114/ywh10114.github.io)
-[34姚文辉](https://github.com/ywh10114/ywh10114.github.io)
 [36鲁好德](https://github.com/lhdzptc/zptcsoft.github.io)
 [39刘晓辉]( https://github.com/liuxiaohui2060/liuxiaohui.github.io)
 [07张铸涛](https://github.com/jhzzt/zptcsoft.github.io)
